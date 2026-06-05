@@ -1,3 +1,5 @@
+package arrays;
+
 /**
  * Provides solution for reversing an array in-place.
  * This class demonstrates the utilization of the two-pointer technique.
